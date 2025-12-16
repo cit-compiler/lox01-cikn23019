@@ -207,4 +207,4 @@ class Scanner {
     keywords.put("var",    VAR);
     keywords.put("while",  WHILE);
   }
-
+}
