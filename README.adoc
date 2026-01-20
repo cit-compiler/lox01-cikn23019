@@ -28,6 +28,9 @@
 [.lead]
 Java版Loxを作るための演習用リポジトリです。
 
+* 氏名: 五十嵐健太郎
+* 学籍番号: 23B71019
+
 == ディレクトリを確認する
 
 このAssignmentをCloneしたら、次のことを確認しなさい。
@@ -51,7 +54,7 @@ Java版Loxを作るための演習用リポジトリです。
 
 [source, console]
 ----
-$ cd (Assingmentのルートディレクトリ） # <1>
+$ cd Assingmentのルートディレクトリ） # <1>
 $ git status # <2>
 
 
